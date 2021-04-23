@@ -23,5 +23,5 @@
 
 export const environment = {
   production: false,
-  REST_API_URL: 'http://tnt-aks-automator.eastus.cloudapp.azure.com:9090'
+  REST_API_URL: 'http://petclinicapi.e46708b92c054086909b.eastus.aksapp.io/petclinic/api'
 };
